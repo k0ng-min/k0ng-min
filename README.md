@@ -2,11 +2,15 @@
 <img src="https://img.shields.io/badge/skmin3735@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
 
-### Hi there 👋 I am a junior developer hoping full-stack developer. ![image](https://user-images.githubusercontent.com/109843437/186915619-ff19cebf-a160-43f7-8264-a2d3721fdcfa.png)
+#### 안녕하세요 👋  
+#### 풀스텍 개발자를 꿈꾸는 주니어 개발자 설경민입니다! 
+#### 아직 부족한 부분이 많아 무엇이든 배워나가고 싶어요 👊    
 
 
 
 
+
+##  🖥️ Tech Stack 
 
 
 
