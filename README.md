@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Seol Kyeong Min&fontAlign=80&fontAlignY=40&color=gradient)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Cylinder&fontAlignY=45&fontSize=40&height=150&animation=blinking)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skmin3735)](https://solved.ac/skmin3735/)
 
