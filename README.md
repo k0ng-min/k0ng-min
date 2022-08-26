@@ -1,6 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Seol Kyeong Min&fontAlign=80&fontAlignY=40&color=gradient)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skmin3735)](https://solved.ac/skmin3735/)
 
 
 ### 👐 Nice way to meet me 👐<br/>
