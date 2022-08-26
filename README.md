@@ -1,7 +1,14 @@
-### Hi there 👋
-
 <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
 <img src="https://img.shields.io/badge/skmin3735@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+
+
+### Hi there 👋 I am a junior developer hoping full-stack developer. ![image](https://user-images.githubusercontent.com/109843437/186915619-ff19cebf-a160-43f7-8264-a2d3721fdcfa.png)
+
+
+
+
+
+
 
 <!--
 **k0ng-min/k0ng-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
