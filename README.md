@@ -1,8 +1,10 @@
-### Nice way to meet me
+### 👐 Nice way to meet me 👐<br/>
+
+
 <p>
   <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
   <img src="https://img.shields.io/badge/skmin3735@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</p>
+</p><br/>
 
 
 
@@ -11,14 +13,14 @@
  안녕하세요 👋  <br/>
  풀스텍 개발자를 꿈꾸는 주니어 개발자 설경민입니다! <br/>
  👊 아직 부족한 부분이 많아 무엇이든 배워나가고 싶어요 👊  <br/>  
-</p>
+</p><br/>
 
 
 
 
-###  🖥️ Tech Stack 
+###  🖥️ Tech Stack <br/>
 
-#### 🗣️ Languages 🗣️
+#### 🗣️ Languages 🗣️ <br/>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
