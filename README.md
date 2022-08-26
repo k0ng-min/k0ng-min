@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=white"/>
+
+
+
 <!--
 **k0ng-min/k0ng-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
