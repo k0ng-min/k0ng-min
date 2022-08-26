@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=white"/>
-
+<a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
 
 
 <!--
