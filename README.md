@@ -6,11 +6,6 @@
 ### 👐 Nice way to meet me 👐<br/>
 
 
-<p>
-  <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
-  <img src="https://img.shields.io/badge/skmin3735@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</p><br/>
-
 
 
 
@@ -21,11 +16,19 @@
 </p><br/>
 
 
+### Link
+
+<p>
+  <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
+  <img src="https://img.shields.io/badge/skmin3735@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+</p><br/>
 
 
-###  🖥️ Tech Stack <br/>
 
-#### 🗣️ Languages 🗣️ <br/>
+
+###  🛠 Tech Stack 🛠  <br/>
+
+Used at least one. <br/>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -39,6 +42,12 @@
 </p>
 
 
+### ☘ Experiences ☘ <br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Likelion-10th-orange"/> 2022.03 ~
+  <img src="https://img.shields.io/badge/T--SUM-Mentoring-green"/> T-SUM mentee 2022.06.06 ~ 2022.08.26
+</p>
 
 
 
