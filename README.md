@@ -12,11 +12,11 @@
 <p>
  안녕하세요 👋  <br/>
  풀스텍 개발자를 꿈꾸는 주니어 개발자 설경민입니다! <br/>
- 👊 아직 부족한 부분이 많아 무엇이든 배워나가고 싶어요 👊  <br/>  
+ 아직 부족한 부분이 많아 무엇이든 배워나가고 싶어요 <br/>  
 </p><br/>
 
 
-### Link
+### 📚 Link 📚 
 
 <p>
   <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
