@@ -11,12 +11,12 @@
 
 <p>
  안녕하세요 👋  <br/>
- 풀스텍 개발자를 꿈꾸는 주니어 개발자 설경민입니다! <br/>
+ 풀스텍 개발자를 꿈꾸는 주니어 개발자 설경민입니다 <br/>
  아직 부족한 부분이 많아 무엇이든 배워나가고 싶어요 <br/>  
 </p><br/>
 
 
-### 📚 Link 📚 
+### 📚 Link 📚 <br/>
 
 <p>
   <a href="https://velog.io/@k0ng-min"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@k0ng-min"/></a>
@@ -39,13 +39,13 @@ Used at least one. <br/>
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-</p>
+</p><br/>
 
 
 ### ☘ Experiences ☘ <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Likelion-10th-orange"/> 2022.03 ~
+  <img src="https://img.shields.io/badge/Likelion-10th-orange"/> 2022.03 ~ <br/>
   <img src="https://img.shields.io/badge/T--SUM-Mentoring-green"/> T-SUM mentee 2022.06.06 ~ 2022.08.26
 </p>
 
