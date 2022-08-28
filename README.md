@@ -1,6 +1,3 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seol%20Kyeong%20Min&fontSize=40&animation=twinkling)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skmin3735)](https://solved.ac/skmin3735/)
 
 
 ### 👐 Nice way to meet me 👐<br/>
@@ -46,8 +43,10 @@ Used at least one. <br/>
 
 <p>
   <img src="https://img.shields.io/badge/Likelion-10th-orange"/> 2022.03 ~ <br/>
-  <img src="https://img.shields.io/badge/T--SUM-Mentoring-green"/> T-SUM mentee 2022.06.06 ~ 2022.08.26
 </p>
 
 
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skmin3735)](https://solved.ac/skmin3735/)
