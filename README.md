@@ -30,12 +30,6 @@ Used at least one. <br/>
 </p><br/>
 
 
-### ☘ Experiences ☘ <br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Likelion-10th-orange"/> 2022.03 ~ <br/>
-</p>
-
 
 
 
