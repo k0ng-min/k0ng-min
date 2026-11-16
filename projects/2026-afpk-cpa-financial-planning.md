@@ -2,7 +2,6 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026-afpk-cpa-financial-planning)
 
-**상세 읽기:** [내 기여](2026-afpk-cpa-financial-planning-contribution.md) · [설계](2026-afpk-cpa-financial-planning-design.md) · [기여 사례](2026-afpk-cpa-financial-planning-cases.md)
 
 ## 프로젝트 소개
 

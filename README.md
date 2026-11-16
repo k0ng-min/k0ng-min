@@ -24,7 +24,7 @@
 
 - **핵심:** 7개 손해보험사 약관을 조항·담보·사고유형·필요서류로 구조화하고, 근거가 없으면 `확인불가`로 남기는 설계
 - **기술:** FastAPI, SQLAlchemy, SQLite, React, TypeScript, Vite, Google Gemini API, Render
-- **상세:** [내 기여·설계·사례 보기](projects/2026-finance-ai-challenge.md)
+- **바로가기:** [내 기여](projects/2026-finance-ai-challenge.md#내-기여-평가) · [설계](projects/2026-finance-ai-challenge.md#설계-관점) · [기여 사례](projects/2026-finance-ai-challenge.md#대표-기여-사례)
 
 #### 2. [PlanBridge · CPA 유예생 현금흐름 분석](projects/2026-afpk-cpa-financial-planning.md)
 
@@ -32,7 +32,7 @@
 
 - **핵심:** 전업 수험·근로 병행·취업 전환 등 대안을 같은 기준으로 비교하고, 급여 지연에 따른 민감도를 함께 검토
 - **기술:** Python, TypeScript, Rust, React, Vite
-- **상세:** [내 기여·설계·사례 보기](projects/2026-afpk-cpa-financial-planning.md)
+- **바로가기:** [내 기여](projects/2026-afpk-cpa-financial-planning.md#내-기여-평가) · [설계](projects/2026-afpk-cpa-financial-planning.md#설계-관점) · [기여 사례](projects/2026-afpk-cpa-financial-planning.md#대표-기여-사례)
 
 #### 3. [VeriMod · User-Verifiable AI Moderation Protocol](projects/2026-verimod.md)
 
@@ -40,7 +40,7 @@
 
 - **핵심:** AI 판정, 정책 결정, Receipt, Epoch 기준점, 브라우저 검증을 분리해 기록의 사후 무결성 확인 흐름 구성
 - **기술:** TypeScript, Python, Solidity, React, Node.js
-- **상세:** [내 기여·설계·사례 보기](projects/2026-verimod.md)
+- **바로가기:** [내 기여](projects/2026-verimod.md#내-기여-평가) · [설계](projects/2026-verimod.md#설계-관점) · [기여 사례](projects/2026-verimod.md#대표-기여-사례)
 
 #### 4. [JOBGUTS · 한국 IT 채용공고 기술 조합 분석](projects/2026-jobguts.md)
 
@@ -48,7 +48,7 @@
 
 - **분석 설계:** Apriori·연관규칙 분석, 직무별 기술 조합, 기술 관계 그래프, 관련 역량 추천
 - **상태:** 팀 프로젝트 **제안 및 분석 설계 문서** 공개
-- **상세:** [내 기여·설계·사례 보기](projects/2026-jobguts.md)
+- **바로가기:** [내 기여](projects/2026-jobguts.md#내-기여-평가) · [설계](projects/2026-jobguts.md#설계-관점) · [기여 사례](projects/2026-jobguts.md#대표-기여-사례)
 
 #### 5. [빅데이터개론 실습 과제](projects/2026-bigdata.md)
 
@@ -56,7 +56,7 @@
 
 - **주제:** MinHash·LSH, 데이터 스트림, PageRank, A-Priori·PCY, k-means
 - **기술:** Python
-- **상세:** [내 기여·설계·사례 보기](projects/2026-bigdata.md)
+- **바로가기:** [내 기여](projects/2026-bigdata.md#내-기여-평가) · [설계](projects/2026-bigdata.md#설계-관점) · [기여 사례](projects/2026-bigdata.md#대표-기여-사례)
 
 ### 2025
 
@@ -67,7 +67,7 @@
 - **핵심:** AI 이미지 분석, 품목별 가이드, 로그인·분석 기록, 커뮤니티·제보·인센티브
 - **기여:** UI/UX와 프론트엔드 구현, 클라이언트–서버 연동·상태 관리, 기록·제보 기능 구현
 - **기술:** React, Express, MongoDB, OpenAI API, Google Cloud Vision, Cloudinary
-- **상세:** [내 기여·설계·사례 보기](projects/2025-resort.md)
+- **바로가기:** [내 기여](projects/2025-resort.md#내-기여-평가) · [설계](projects/2025-resort.md#설계-관점) · [기여 사례](projects/2025-resort.md#대표-기여-사례)
 
 ### 2022
 
@@ -76,14 +76,14 @@
 > Django 기반의 팀 웹 프로젝트입니다.
 
 - **기술:** Python, Django, HTML, CSS, JavaScript
-- **상세:** [내 기여·설계·사례 보기](projects/2022-dangcoffee.md)
+- **바로가기:** [내 기여](projects/2022-dangcoffee.md#내-기여-평가) · [설계](projects/2022-dangcoffee.md#설계-관점) · [기여 사례](projects/2022-dangcoffee.md#대표-기여-사례)
 
 #### 8. [Donut Web](projects/2022-donut-web.md)
 
 > 계정·게시글·댓글·프로필·결제 기능을 앱 단위로 나눈 Django 웹 프로젝트입니다.
 
 - **기술:** Python, Django, Docker, Nginx, HTML, CSS, JavaScript
-- **상세:** [내 기여·설계·사례 보기](projects/2022-donut-web.md)
+- **바로가기:** [내 기여](projects/2022-donut-web.md#내-기여-평가) · [설계](projects/2022-donut-web.md#설계-관점) · [기여 사례](projects/2022-donut-web.md#대표-기여-사례)
 
 ---
 

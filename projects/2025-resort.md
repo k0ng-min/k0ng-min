@@ -2,7 +2,6 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2025_waste_sorting) · [서비스](https://sejong-waste-management.onrender.com)
 
-**상세 읽기:** [내 기여](2025-resort-contribution.md) · [설계](2025-resort-design.md) · [기여 사례](2025-resort-cases.md)
 
 ## 프로젝트 소개
 
