@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2022-likelion-DangCoffee)
 
+**상세 읽기:** [내 기여](2022-dangcoffee-contribution.md) · [설계](2022-dangcoffee-design.md) · [기여 사례](2022-dangcoffee-cases.md)
+
 ## 프로젝트 소개
 
 Django 기반 팀 웹 프로젝트입니다. 계정·정보·추천 기능으로 분리된 앱 구조와 템플릿·정적 자산으로 구성돼 있습니다.

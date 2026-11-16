@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026_finance_ai_challenge) · [라이브 데모](https://travel-insurance-web.onrender.com/)
 
+**상세 읽기:** [내 기여](2026-finance-ai-challenge-contribution.md) · [설계](2026-finance-ai-challenge-design.md) · [기여 사례](2026-finance-ai-challenge-cases.md)
+
 ## 프로젝트 소개
 
 실제 여행자보험 약관을 조항·담보·사고유형·필요서류 단위로 구조화해, 가입 전 비교와 사고 후 청구 준비를 한 흐름으로 지원하는 설명가능 AI 서비스입니다. 근거를 찾지 못한 결과를 숨기지 않고 `확인불가`로 남기는 것을 핵심 원칙으로 둡니다.

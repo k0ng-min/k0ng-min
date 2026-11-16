@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026-afpk-cpa-financial-planning)
 
+**상세 읽기:** [내 기여](2026-afpk-cpa-financial-planning-contribution.md) · [설계](2026-afpk-cpa-financial-planning-design.md) · [기여 사례](2026-afpk-cpa-financial-planning-cases.md)
+
 ## 프로젝트 소개
 
 CPA 2차 유예생의 합격 발표와 첫 급여 사이 소득 공백을 가상 고객 시나리오로 분석합니다. 18개월 안전자금과 60개월 조건부 가치를 함께 비교해 전업 수험·근로 병행·취업 전환의 조건을 드러냅니다.

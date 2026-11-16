@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026_blockchain)
 
+**상세 읽기:** [내 기여](2026-verimod-contribution.md) · [설계](2026-verimod-design.md) · [기여 사례](2026-verimod-cases.md)
+
 ## 프로젝트 소개
 
 AI 콘텐츠 판정 뒤에 Decision Receipt를 발급하고, Merkle proof와 공개 Epoch 기준점을 통해 사용자가 기록의 사후 무결성을 확인하도록 돕는 프로토콜입니다.

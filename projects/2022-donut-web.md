@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2022-likelion-donut-web)
 
+**상세 읽기:** [내 기여](2022-donut-web-contribution.md) · [설계](2022-donut-web-design.md) · [기여 사례](2022-donut-web-cases.md)
+
 ## 프로젝트 소개
 
 계정·게시글·댓글·프로필·결제 기능을 Django 앱 단위로 나눈 팀 웹 프로젝트입니다. Docker와 Nginx 설정도 함께 포함돼 있어 애플리케이션과 배포 구성을 함께 다룹니다.

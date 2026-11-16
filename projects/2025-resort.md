@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2025_waste_sorting) · [서비스](https://sejong-waste-management.onrender.com)
 
+**상세 읽기:** [내 기여](2025-resort-contribution.md) · [설계](2025-resort-design.md) · [기여 사례](2025-resort-cases.md)
+
 ## 프로젝트 소개
 
 사용자가 폐기물 사진을 올리면 AI 분석과 품목별 가이드를 제공하는 분리배출 안내 서비스입니다. 회원·분석 기록·커뮤니티·제보·인센티브를 연결해 단발성 검색을 지속적인 서비스 흐름으로 확장했습니다.

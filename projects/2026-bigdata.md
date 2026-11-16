@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026_bigdata)
 
+**상세 읽기:** [내 기여](2026-bigdata-contribution.md) · [설계](2026-bigdata-design.md) · [기여 사례](2026-bigdata-cases.md)
+
 ## 프로젝트 소개
 
 *Mining of Massive Datasets* 기반의 주차별 알고리즘 실습 기록입니다. 유사도 검색, 스트림 처리, 링크 분석, 빈발 항목집합, 클러스터링을 각각 구현·검증합니다.

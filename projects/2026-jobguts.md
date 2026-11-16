@@ -2,6 +2,8 @@
 
 [← 프로필로](../README.md) · [원본 저장소](https://github.com/k0ng-min/2026_bigdata_JobGuts)
 
+**상세 읽기:** [내 기여](2026-jobguts-contribution.md) · [설계](2026-jobguts-design.md) · [기여 사례](2026-jobguts-cases.md)
+
 ## 프로젝트 소개
 
 한국 IT 채용공고에 함께 등장하는 기술을 정규화하고, 직무별 기술 조합과 연관 규칙을 분석하려는 팀 프로젝트 제안입니다.
